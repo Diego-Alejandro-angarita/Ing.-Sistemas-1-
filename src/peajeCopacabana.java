@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class peajeCopacabana {
     public static void main(String[] args) {
         Scanner Leer = new Scanner(System.in);
 
@@ -26,9 +24,5 @@ public class Main {
         } else if (Eleccion == 6 || Eleccion == 7) {
             System.out.println(tarifaSmg + "73.900");
         }
-
-
-        // ejercicio 2
-
     }
 }
